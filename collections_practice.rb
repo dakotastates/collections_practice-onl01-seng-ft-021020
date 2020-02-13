@@ -33,4 +33,6 @@ def sum_array(array)
   s+=a
 end
 
-def
+def add_s(array)
+  
+  def
