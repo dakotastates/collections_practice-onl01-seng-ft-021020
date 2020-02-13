@@ -32,3 +32,5 @@ def sum_array(array)
   array.each {|a| 
   s+=a
 end
+
+def
