@@ -29,9 +29,11 @@ end
 
 def sum_array(array)
   s=0
-  array.each {|a| }
+  array.each do |a|
   s+=a
+end
   s
+  
 end
 
 def add_s(array)
